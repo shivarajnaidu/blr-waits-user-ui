@@ -22,7 +22,7 @@ I've given design links for each page below and assigned to specific person
 
 - [Home](https://xd.adobe.com/view/afa8599e-aa44-440c-bd78-921bafa24add-fafb/screen/dd6cda78-c3d8-44da-a17f-e28b803252d5/specs/) - Devendran
   
-- [Navbar](https://xd.adobe.com/view/afa8599e-aa44-440c-bd78-921bafa24add-fafb/screen/3c2fe9eb-5364-4c20-8c53-c17e0915ae9f/specs/) - Devendran
+- [Desktop & Mobile Navbar](https://xd.adobe.com/view/afa8599e-aa44-440c-bd78-921bafa24add-fafb/screen/3c2fe9eb-5364-4c20-8c53-c17e0915ae9f/specs/) - Yuvaraj
   
 - [Request Bed / Raise request](https://xd.adobe.com/view/afa8599e-aa44-440c-bd78-921bafa24add-fafb/screen/6eca6ff7-90d5-4bb2-a201-2e34dc7f4aaf/specs/) - Shyamala
   
