@@ -33,6 +33,9 @@ I've given design links for each page below and assigned to specific person
 - [Submit Request - Gettting SRF ID](https://xd.adobe.com/view/afa8599e-aa44-440c-bd78-921bafa24add-fafb/screen/45efc92f-f013-4664-b2c5-b5f5edc7299e/specs/) - Shyamala
   
 - **Submit Request - Patient Details**
-  - https://xd.adobe.com/view/afa8599e-aa44-440c-bd78-921bafa24add-fafb/screen/d02d0441-12d0-406a-aed6-ab1b3d0b98d2/specs/
-  - Symtoms - https://xd.adobe.com/view/afa8599e-aa44-440c-bd78-921bafa24add-fafb/screen/333b0e70-2495-4b80-8caa-4b958fabed4c/specs/
-  - 
+  - https://xd.adobe.com/view/afa8599e-aa44-440c-bd78-921bafa24add-fafb/screen/d02d0441-12d0-406a-aed6-ab1b3d0b98d2/specs/ - Nagaraj
+  - Symtoms - https://xd.adobe.com/view/afa8599e-aa44-440c-bd78-921bafa24add-fafb/screen/333b0e70-2495-4b80-8caa-4b958fabed4c/specs/ - Nagaraj
+  
+- Reports - Defered
+
+Thanks for your contributions !
